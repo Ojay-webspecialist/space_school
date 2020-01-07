@@ -1,0 +1,16 @@
+{
+  "name": "boostrap_practice",
+  "version": "1.0.0",
+  "description": "Practice on bootstrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agene sunday",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
